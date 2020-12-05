@@ -1,2 +1,9 @@
-# adventofcode
+# Advent of code
+
+![advent of code](banner.jpeg)
+
+Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
+
 https://adventofcode.com/
+
+This is my year 2020 experience.6cZyAd#_XBkYVbZ
