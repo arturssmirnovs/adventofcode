@@ -6,4 +6,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 https://adventofcode.com/
 
-This is my year 2020 experience.6cZyAd#_XBkYVbZ
+This is my year 2020 experience.
